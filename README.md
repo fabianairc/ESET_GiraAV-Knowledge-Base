@@ -1,5 +1,5 @@
 <h1>
-  <img src="Logo_GIra/GIRA-AV_-negativo_fondo_turquesa.png" alt="Logo" width="50" />
+  <img src="Logo_GIra/GIRA-AV_-negativo_fondo_turquesa.png" alt="Logo" width="100" />
   ESET_GiraAV-Knowledge-Base
 </h1>
 
