@@ -1,6 +1,6 @@
 # Specialized_Tools_by_Topic
-
 En esta sección encontrarás las herramientas clave e indispensables en múltiples disciplinas de cibeseguridad que te permitirán llevar adelante tus tareas del día a día, aprender y resolver desafíos.
+
 
 ## Networking and Security
 - [Nmap](https://nmap.org/)  
@@ -17,3 +17,11 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [TCPdump](https://www.tcpdump.org/)  
 - [Netcat](https://nmap.org/ncat/)  
 - [Ettercap](https://www.ettercap-project.org/)  
+
+## Some Operating Sytems
+- [Kali Linux](https://www.kali.org/)   
+- [Parrot Security](https://www.parrotsec.org/)  
+- [BlackArch Linux](https://www.blackarch.org/)  
+- [REMnux](https://remnux.org/)  
+- [CAINE](https://www.caine-live.net/)  
+- [Tails](https://tails.net/)  
