@@ -25,3 +25,15 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [REMnux](https://remnux.org/)  
 - [CAINE](https://www.caine-live.net/)  
 - [Tails](https://tails.net/)  
+
+## Web Security
+## Offensive Security
+base de datos de vulnerabilidades y exploit
+## Forensic Analysis
+## Malware Analysis
+base de datos de malware
+## Threat Hunting
+base de datos de mitre y mitre atlas
+## Reverse Engineering
+## OSINT
+## Blue Team (?)
