@@ -26,8 +26,9 @@ En el ámbito de la ciberseguridad, existen plataformas que ofrecen cursos espec
 🔹 [TCM Security Academy](https://academy.tcm-sec.com/) 
 
 
-### Sitios de Cursos
+### Sitios de de aprendizaje gamificado y laboratorios
 Sitios para aprender jugando con laboratorios especializados y capture the flag.
-🔹 [TryHackMe](https://tryhackme.com/)  
+
 🔹 [HackThisSite](https://www.hackthissite.org/)  
 🔹 [CyberSecLabs](https://www.cyberseclabs.org/category/lab/)  
+🔹 [TryHackMe](https://tryhackme.com/)  
