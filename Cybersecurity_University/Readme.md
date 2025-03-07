@@ -1,6 +1,7 @@
 # Cybersecurity University
 
-En esta sección, encontrarás una recopilación de cursos gratuitos, repositorios y recursos de código abierto diseñados para ayudarte a aprender ciberseguridad de manera efectiva. Todos los recursos han sido seleccionados cuidadosamente para ofrecerte una educación accesible y de alta calidad en diversas áreas de la ciberseguridad. ¡Comienza tu viaje de aprendizaje y mejora tus habilidades con estos materiales útiles y gratuitos!
+En esta sección, encontrarás una recopilación de cursos gratuitos, repositorios y recursos de código abierto diseñados para ayudarte a aprender ciberseguridad de manera efectiva. Todos los recursos han sido seleccionados cuidadosamente para ofrecerte una educación accesible y de alta calidad en diversas áreas de la ciberseguridad.
+¡Comienza tu viaje de aprendizaje y mejora tus habilidades con estos materiales útiles y gratuitos!
 
 
 ## Rutas de Aprendizaje Estructuradas en Ciberseguridad y Sistemas
@@ -16,14 +17,14 @@ Esta sección está dedicada a recomendar rutas de aprendizaje estructuradas en 
 
 
 ## Plataformas de Aprendizaje Especializado en Ciberseguridad
-En el ámbito de la ciberseguridad, existen plataformas que ofrecen cursos especializados, entornos prácticos y desafiantes para aprender y  habilidades. A continuación presentamos plataformas que ofrecen material gratuito y opciones pagas. Esta lista contiene sitios para aprender en formato academia y en formato desafíos en los cuales se desarrollan habilidades mientras se resuelven distintos challenges y Capture The Flag (CTF)
+En el ámbito de la ciberseguridad, existen plataformas que ofrecen cursos especializados, entornos prácticos y desafiantes para aprender y desarrollar habilidades. A continuación presentamos plataformas que ofrecen material gratuito y opciones pagas. Esta lista contiene sitios para aprender en formato academia y en formato desafíos en los cuales se desarrollan skills mientras se resuelven distintos challenges y Capture The Flag (CTF)
 
 
 ### Sitios de Cursos
 - [Academia ESET](https://www.academiaeset.com/)
 - [Coursera](https://www.coursera.org/) 
--  [EC Council- CyberSecurityExchange](https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/) 
--  [NIST](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
+- [EC Council- CyberSecurityExchange](https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/) 
+- [NIST](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 - [Udemy](https://www.udemy.com/) 
 - [KhanAcademy](https://es.khanacademy.org/)  
 - [MIT OpenCourseWare](https://ocw.mit.edu/)  
@@ -43,6 +44,15 @@ En el ámbito de la ciberseguridad, existen plataformas que ofrecen cursos espec
 ### Sitios de de aprendizaje gamificado y laboratorios
 Sitios para aprender jugando con laboratorios especializados y capture the flag.
 
+- [HackTheBox](https://www.hackthebox.com/)  
+- [TryHackMe](https://tryhackme.com/) 
+- [Try2Hack](https://try2hack.me/)   
 - [HackThisSite](https://www.hackthissite.org/)  
 - [CyberSecLabs](https://www.cyberseclabs.org/category/lab/)  
-- [TryHackMe](https://tryhackme.com/)  
+- [HackXpert](https://labs.hackxpert.com/)  
+- [RootMe](https://www.root-me.org/?lang=en)  
+- [Vulnhub](https://www.vulnhub.com/)  
+- [CTF101](https://ctf101.org/)  
+- [MOBISEC challs!](https://challs.reyammer.io/)  
+- [OverTheWire](https://overthewire.org/wargames/)  
+- [CTFlearn](https://ctflearn.com/)  
