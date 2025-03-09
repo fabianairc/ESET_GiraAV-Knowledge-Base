@@ -40,8 +40,63 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [BeEF](https://github.com/beefproject/beef) - Explotación de vulnerabilidades en navegadores web.
 
 
-## Offensive Security
-base de datos de vulnerabilidades y exploit
+## Main Red Teaming
+- [Metasploit](https://www.metasploit.com/) – Framework para explotación de vulnerabilidades  
+- [Cobalt Strike](https://www.cobaltstrike.com/) – Simulación de adversarios y post-explotación  
+- [Empire](https://github.com/BC-SECURITY/Empire) – Post-explotación en PowerShell y Python  
+- [Sliver](https://github.com/BishopFox/sliver) – C2 alternativo a Cobalt Strike  
+- [Havoc](https://github.com/HavocFramework/Havoc) – Framework de C2 moderno y modular  
+- [Exploit Database](https://www.exploit-db.com/) – Repositorio de exploits públicos  
+- [NVD (National Vulnerability Database)](https://nvd.nist.gov/) – Base de datos de vulnerabilidades de NIST  
+- [MITRE ATT&CK](https://attack.mitre.org/) – Matriz de tácticas y técnicas de ataque  
+- [CVE Details](https://www.cvedetails.com/) – Información detallada sobre vulnerabilidades  
+- [0day.today](https://0day.today/) – Exploits de día cero y vulnerabilidades  
+- [Packet Storm Security](https://packetstormsecurity.com/) – Repositorio de exploits y herramientas  
+- [Veil](https://github.com/Veil-Framework/Veil) – Payloads para evadir antivirus  
+- [Donut](https://github.com/TheWover/donut) – Conversión de binarios en shellcode en memoria  
+- [ScareCrow](https://github.com/optiv/ScareCrow) – Evasión de detección de EDR con C#  
+- [Shellter](https://www.shellterproject.com/) – Inyección de shellcode en ejecutables legítimos  
+- [PEzor](https://github.com/phra/PEzor) – Empaquetador para evadir detección de AV  
+- [Obfuscator-LLVM](https://github.com/obfuscator-llvm/obfuscator) – Ofuscación avanzada de binarios  
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) – Mapeo de relaciones en Active Directory  
+- [CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) – Explotación de redes Windows  
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) – Extracción de credenciales en Windows  
+- [Rubeus](https://github.com/GhostPack/Rubeus) – Ataques de Kerberos  
+- [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) – Ejecución remota en Windows  
+- [LaZagne](https://github.com/AlessandroZ/LaZagne) – Recuperación de credenciales en Windows/Linux  
+- [SharpHound](https://github.com/BloodHoundAD/SharpHound) – Recolección de datos de Active Directory  
+- [Merlin](https://github.com/Ne0nd0g/merlin) – Framework de C2 en Go  
+- [Mythic](https://github.com/its-a-feature/Mythic) – Plataforma modular de C2  
+- [PoshC2](https://github.com/nettitude/PoshC2) – C2 basado en PowerShell  
+- [Quasar RAT](https://github.com/quasar/QuasarRAT) – Remote Access Trojan (RAT)  
+- [Octopus C2](https://github.com/mhaskar/Octopus) – C2 basado en Python  
+- [Slingshot C2](https://github.com/Squnkgod/Slingshot-C2) – Framework liviano de C2   
+- [Gophish](https://getgophish.com/) – Simulación de ataques de phishing  
+- [Evilginx2](https://github.com/kgretzky/evilginx2) – Ataques de phishing con bypass de MFA  
+- [SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit) – Marco para ingeniería social  
+- [Modlishka](https://github.com/drk1wi/Modlishka) – Proxy inverso para ataques de phishing avanzados  
+- [CredSniper](https://github.com/ustayready/CredSniper) – Herramienta para ataques de phishing de credenciales  
+- [BeEF (Browser Exploitation Framework)](https://beefproject.com/) – Explotación de navegadores web  
+- [LinPEAS](https://github.com/carlospolop/PEASS-ng) – Detección de posibles escalaciones en Linux  
+- [WinPEAS](https://github.com/carlospolop/PEASS-ng) – Escalada de privilegios en Windows  
+- [PrivescCheck](https://github.com/itm4n/PrivescCheck) – Identificación de vectores de escalación en Windows  
+- [Seatbelt](https://github.com/GhostPack/Seatbelt) – Recopilación de información para escalación en Windows  
+- [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc) – Identificación de escalaciones en PowerShell  
+- [GTFOBins](https://gtfobins.github.io/) – Uso de binarios en Linux para escalación  
+- [ADRecon](https://github.com/adrecon/ADRecon) – Recolección de información de Active Directory  
+- [LDAPDomainDump](https://github.com/dirkjanm/ldapdomaindump) – Enumeración de AD mediante LDAP  
+- [Kerbrute](https://github.com/ropnop/kerbrute) – Ataques de fuerza bruta a Kerberos  
+- [Impacket](https://github.com/fortra/impacket) – Herramientas para ataques a protocolos de red en Windows  
+- [PetitPotam](https://github.com/topotam/PetitPotam) – Explotación de NTLM relay en Windows  
+- [nmapAutomator](https://github.com/21y4d/nmapAutomator) – Script para escaneos automatizados con Nmap  
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) – Ataques de fuerza bruta a múltiples servicios  
+- [John the Ripper](https://www.openwall.com/john/) – Cracking avanzado de contraseñas  
+- [Hashcat](https://hashcat.net/hashcat/) – Cracking de contraseñas con GPU  
+- [Medusa](https://www.foofus.net/?page_id=50) – Ataques de fuerza bruta contra múltiples protocolos  
+- [CeWL](https://github.com/digininja/CeWL) – Generación de listas de palabras para ataques de diccionario  
+- [Wordlists](https://github.com/danielmiessler/SecLists) – Colección de diccionarios para pentesting  
+
+
 ## Forensic Analysis
 ## Malware Analysis
 base de datos de malware
