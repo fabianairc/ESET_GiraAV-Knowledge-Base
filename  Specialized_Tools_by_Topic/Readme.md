@@ -1,7 +1,7 @@
-# Specialized_Tools_by_Topic
+# 🛠️ Specialized_Tools_by_Topic
 En esta sección encontrarás las herramientas clave e indispensables en múltiples disciplinas de ciberseguridad que te permitirán llevar adelante tus tareas del día a día, aprender y resolver desafíos.
 
-## Networking and Security
+## 🌐 Networking and Security
 - [Nmap](https://nmap.org/) - Escaneo de redes y detección de puertos abiertos.
 - [Wireshark](https://www.wireshark.org/) - Análisis de tráfico en redes.
 - [Aircrack-ng](https://www.aircrack-ng.org/) - Auditoría de redes WiFi.
@@ -17,7 +17,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [Netcat](https://nmap.org/ncat/) - Herramienta para conexiones de red y depuración.
 - [Ettercap](https://www.ettercap-project.org/) - Ataques MITM (Man-in-the-Middle) en redes.
 
-## Some Operating Systems
+## 💻 Some Operating Systems
 - [Kali Linux](https://www.kali.org/) - Sistema operativo para pruebas de seguridad.
 - [Parrot Security](https://www.parrotsec.org/) - Distro de seguridad con herramientas avanzadas.
 - [BlackArch Linux](https://www.blackarch.org/) - Sistema operativo con más de 2000 herramientas de hacking.
@@ -25,7 +25,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [CAINE](https://www.caine-live.net/) - Distribución para análisis forense digital.
 - [Tails](https://tails.net/) - Sistema operativo centrado en privacidad y anonimato.
 
-## Web Security
+## 🔒 Web Security
 - [ZAP](https://www.zaproxy.org/) - Escaneo de vulnerabilidades en aplicaciones web.
 - [SQLmap](https://sqlmap.org/) - Automatización de ataques SQL Injection.
 - [Wappalyzer](https://www.wappalyzer.com/) - Identificación de tecnologías usadas en sitios web.
@@ -40,7 +40,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [BeEF](https://github.com/beefproject/beef) - Explotación de vulnerabilidades en navegadores web.
 
 
-## Main Red Teaming
+## 🚩 Main Red Teaming
 - [Metasploit](https://www.metasploit.com/) – Framework para explotación de vulnerabilidades  
 - [Cobalt Strike](https://www.cobaltstrike.com/) – Simulación de adversarios y post-explotación  
 - [Empire](https://github.com/BC-SECURITY/Empire) – Post-explotación en PowerShell y Python  
@@ -145,8 +145,6 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 
 
 ## 🕵️‍♂️ Forensic Analysis Tools
-# 🕵️‍♂️ Forensic Analysis Tools  
-
 - **[Autopsy](https://www.sleuthkit.org/autopsy/)** – Plataforma forense de análisis de discos con soporte para investigaciones digitales.  
 - **[The Sleuth Kit (TSK)](https://www.sleuthkit.org/)** – Conjunto de herramientas para analizar discos y sistemas de archivos.  
 - **[FTK Imager](https://accessdata.com/product-download/ftk-imager)** – Herramienta para crear imágenes de discos y análisis forense.  
@@ -182,7 +180,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - **[Case Notes](https://www.osforensics.com/tools/case-notes.html)** – Herramienta para gestionar notas de caso y documentación forense.  
 - **[Axiom Investigator](https://www.magnetforensics.com/axiom/)** – Herramienta para generar informes y documentación de casos forenses.  
 
-## Threat Hunting
+## 🔍 Threat Hunting
 - **[Elastic Stack (ELK)](https://www.elastic.co/elastic-stack)** – Plataforma para la recopilación, búsqueda y análisis de grandes volúmenes de datos, como logs y métricas.  
 - **[Splunk](https://www.splunk.com/)** – Plataforma para la recopilación, indexación y análisis de grandes volúmenes de datos en tiempo real.  
 - **[Logstash](https://www.elastic.co/logstash)** – Herramienta para la recopilación, transformación y envío de logs a otros sistemas de análisis.  
@@ -201,5 +199,52 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - **[AlienVault OTX](https://otx.alienvault.com/)** – Plataforma de inteligencia de amenazas para compartir y analizar indicadores de amenazas en tiempo real.  
 
 
-## OSINT
-## Blue Team (?)
+## 👁 OSINT - Open Source Intelligence
+
+- [Maltego](https://www.paterva.com/web7/) - Plataforma que permite la recopilación de datos y análisis de redes, asociaciones y relaciones entre personas, organizaciones y sitios web.
+- [theHarvester](https://github.com/laramies/theHarvester) - Herramienta que recoge información de fuentes públicas como motores de búsqueda, bases de datos y servicios de WHOIS.
+- [Shodan](https://www.shodan.io/) - Motor de búsqueda que permite descubrir dispositivos conectados a Internet, identificando vulnerabilidades de dispositivos IoT.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Framework para realizar investigaciones de OSINT, que permite utilizar módulos para buscar información pública sobre personas, empresas y más.
+- [OsintFramework](https://osintframework.com/) - Un sitio web interactivo que organiza herramientas de OSINT en categorías, facilitando el acceso a los recursos adecuados para investigaciones.
+
+- [OSINT Combine](https://www.osintcombine.com/) - Plataforma que integra múltiples fuentes de inteligencia pública y permite realizar análisis avanzados.
+
+- [Google Dorks](https://www.exploit-db.com/google-hacking-database) - Técnicas avanzadas de búsqueda utilizando Google para encontrar información específica expuesta en la web.
+
+- [Wayback Machine](https://archive.org/web/) - Servicio que permite acceder a versiones archivadas de sitios web, útil para investigar información histórica.
+
+- [Pipl](https://pipl.com/) - Motor de búsqueda que permite encontrar información personal pública de individuos, como direcciones, perfiles sociales, etc.
+
+-  [HaveIBeenPwned](https://haveibeenpwned.com/) - Servicio que permite verificar si una cuenta de correo electrónico ha sido comprometida en una brecha de datos.
+
+- [Intel Techniques](https://inteltechniques.com/) - Sitio web con herramientas y recursos para realizar investigaciones OSINT en profundidad.
+
+- [Email Rep](https://emailrep.io/) - API para obtener información sobre la reputación y los detalles de una dirección de correo electrónico.
+
+- [DNSdumpster](https://dnsdumpster.com/) - Herramienta para realizar un análisis de los registros DNS de un dominio, proporcionando información sobre la infraestructura de red.
+
+- [PublicWWW](https://publicwww.com/) - Herramienta para buscar código fuente público de sitios web, útil para identificar asociaciones o servicios relacionados con un dominio.
+
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Herramienta para buscar perfiles de redes sociales de una persona en más de 300 sitios diferentes, útil para realizar investigaciones OSINT.
+
+---
+
+### Sitios Recomendados para Aprender OSINT
+
+- **[TraceLabs](https://www.tracelabs.org/)**  
+   Participa en competiciones de OSINT para ayudar a localizar personas rales desaparecidas y mejorar tus habilidades prácticas.
+
+- **[Bellingcat](https://www.bellingcat.com/)**  
+   Sitio web de investigación OSINT donde se publican artículos detallados sobre el uso de herramientas OSINT para investigación.
+
+- **[OSINT Framework](https://osintframework.com/)**  
+   Recurso completo para aprender sobre las herramientas y técnicas de OSINT. Es una guía interactiva de fuentes públicas.
+
+- **[The OSINT Curious Project](https://osintcurio.us/)**  
+   Blog y recursos educativos dedicados al uso de OSINT en ciberseguridad y la recopilación de inteligencia.
+
+- **[IntelTechniques](https://inteltechniques.com/)**  
+   Ofrece una variedad de guías y herramientas para realizar investigaciones OSINT de manera efectiva.
+
+- **[Reddit OSINT](https://www.reddit.com/r/OSINT/)**  
+   Subreddit dedicado a la recopilación de recursos OSINT, noticias y discusiones sobre técnicas y herramientas de OSINT.
