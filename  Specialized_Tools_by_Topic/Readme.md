@@ -145,6 +145,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 
 
 ## 🕵️‍♂️ Forensic Analysis Tools
+
 - **[Autopsy](https://www.sleuthkit.org/autopsy/)** – Plataforma forense de análisis de discos con soporte para investigaciones digitales.  
 - **[The Sleuth Kit (TSK)](https://www.sleuthkit.org/)** – Conjunto de herramientas para analizar discos y sistemas de archivos.  
 - **[FTK Imager](https://accessdata.com/product-download/ftk-imager)** – Herramienta para crear imágenes de discos y análisis forense.  
