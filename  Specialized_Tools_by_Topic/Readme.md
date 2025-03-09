@@ -96,12 +96,59 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [CeWL](https://github.com/digininja/CeWL) – Generación de listas de palabras para ataques de diccionario  
 - [Wordlists](https://github.com/danielmiessler/SecLists) – Colección de diccionarios para pentesting  
 
+## 🦠 Malware Analysis & Reverse Engineering Tools  
+- **[The Zoo](https://github.com/ytisf/theZoo)** – Colección de muestras de malware para análisis.  
+- **[MalwareBazaar](https://bazaar.abuse.ch/)** – Base de datos pública de malware de Abuse.ch.  
+- **[VirusShare](https://virusshare.com/)** – Repositorio de muestras de malware.  
+- **[VX Underground](https://vx-underground.org/)** – Archivos y documentación sobre malware real.  
+- **[Hybrid Analysis](https://www.hybrid-analysis.com/)** – Plataforma de análisis de malware en línea.  
+- **[Malshare](http://malshare.com/)** – Repositorio gratuito de muestras de malware.  
+- **[Open Malware](https://www.openmalware.org/)** – Repositorio colaborativo de muestras de malware.  
+- **[MITRE ATT&CK](https://attack.mitre.org/)** – Marco de referencia para técnicas y tácticas de adversarios cibernéticos.  
+- **[MITRE ATT&CK for ICS](https://attack.mitre.org/matrices/ics/)** – Marco de referencia de ataques cibernéticos dirigido a sistemas de control industrial (ICS).
+- **[IDA Pro](https://hex-rays.com/ida-pro/)** – Desensamblador y depurador avanzado para ingeniería inversa.  
+- **[Ghidra](https://ghidra-sre.org/)** – Framework de ingeniería inversa de la NSA.  
+- **[Radare2](https://github.com/radareorg/radare2)** – Desensamblador y depurador de código abierto.  
+- **[x64dbg](https://x64dbg.com/)** – Depurador para Windows orientado al análisis de malware.  
+- **[OllyDbg](http://www.ollydbg.de/)** – Depurador para análisis de ejecutables de Windows.  
+- **[Immunity Debugger](https://www.immunityinc.com/products/immdbg/)** – Depurador avanzado para binarios de 32/64-bit.  
+- **[Cutter](https://cutter.re/)** – Interfaz gráfica para Radare2 con funcionalidades extendidas.  
+- **[Cuckoo Sandbox](https://cuckoosandbox.org/)** – Plataforma automatizada de análisis de malware.  
+- **[Any.Run](https://any.run/)** – Sandbox interactivo en la nube para malware.  
+- **[Falcon Sandbox](https://www.hybrid-analysis.com/)** – Sandbox de CrowdStrike con detección avanzada.  
+- **[CAPA](https://github.com/mandiant/capa)** – Detección automática de capacidades en binarios.  
+- **[Joe Sandbox](https://www.joesecurity.org/)** – Plataforma de análisis estático y dinámico.  
+- **[FireEye Malware Analysis](https://www.fireeye.com/solutions/malware-analysis.html)** – Herramienta avanzada de análisis de malware.  
+- **[PEStudio](https://www.winitor.com/)** – Análisis estático avanzado de archivos PE.  
+- **[Detect It Easy (DIE)](https://github.com/horsicq/Detect-It-Easy)** – Identificación de formatos y empaquetadores.  
+- **[YARA](https://github.com/VirusTotal/yara)** – Creación de reglas para identificar malware.  
+- **[Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)** – Extracción de strings en binarios.  
+- **[Flare-Floss](https://github.com/mandiant/flare-floss)** – Desofuscación automática de cadenas en malware.  
+- **[PE-bear](https://github.com/hasherezade/pe-bear)** – Análisis estático de binarios PE.  
+- **[Hiew](http://www.hiew.ru/)** – Herramienta avanzada de análisis hexadecimal.  
+- **[x32dbg](https://x32dbg.com/)** – Depurador de 32 bits para análisis de malware.  
+- **[VxClass](https://github.com/yonatanaud/vxclass)** – Herramienta para la clasificación de malware basada en características.  
+- **[Ghidra decompilers](https://ghidra-sre.org/)** – Herramienta avanzada para descompilar binarios.  
+- **[Binwalk](https://github.com/ReFirmLabs/binwalk)** – Análisis de firmware y extracción de datos.  
+- **[JEB Decompiler](https://www.pnfsoftware.com/jeb/)** – Descompilador avanzado para APKs y otros binarios.  
+- **[Volatility](https://www.volatilityfoundation.org/)** – Framework de análisis forense de memoria.  
+- **[Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/)** – Herramientas avanzadas para análisis y depuración en Windows.  
+- **[Radamsa](https://github.com/akihe/radamsa)** – Generador de datos de prueba y mutaciones para fuzzing.  
+- **[Fakenet-NG](https://github.com/ahiaser/fakenet-ng)** – Herramienta para emular servicios de red y detectar malware que se comunica en red. 
+- **[Fuzzbunch](https://github.com/robertdavidgraham/FuzzBunch)** – Framework para explotación y pruebas de vulnerabilidad.  
+- **[xortool](https://github.com/hellman/xortool)** – Herramienta para romper XOR en malware cifrado.  
+- **[DDUMPER](https://github.com/m0ez/DDUMPER)** – Dump de procesos en ejecución en Windows.  
+- **[Reddit - Malware Analysis](https://www.reddit.com/r/MalwareAnalysis/)** – Comunidad para compartir conocimientos de análisis de malware.  
+- **[Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)** – Base de datos pública de muestras de malware con información de análisis.  
+- **[ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)** – Herramienta de visualización para mitigar ciberataques basados en MITRE ATT&CK.  
+- **[MITRE ATT&CK ATLAS](https://atlas.mitre.org/)** – Marco de referencia de ataques cibernéticos dirigido a modelos de Inteligencia Aritfiical
+
 
 ## Forensic Analysis
-## Malware Analysis
+
 base de datos de malware
 ## Threat Hunting
 base de datos de mitre y mitre atlas
-## Reverse Engineering
+## 
 ## OSINT
 ## Blue Team (?)
