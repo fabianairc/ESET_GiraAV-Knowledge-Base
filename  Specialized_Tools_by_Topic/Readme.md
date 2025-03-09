@@ -144,11 +144,62 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - **[MITRE ATT&CK ATLAS](https://atlas.mitre.org/)** – Marco de referencia de ataques cibernéticos dirigido a modelos de Inteligencia Aritfiical
 
 
-## Forensic Analysis
+## 🕵️‍♂️ Forensic Analysis Tools
+# 🕵️‍♂️ Forensic Analysis Tools  
 
-base de datos de malware
+- **[Autopsy](https://www.sleuthkit.org/autopsy/)** – Plataforma forense de análisis de discos con soporte para investigaciones digitales.  
+- **[The Sleuth Kit (TSK)](https://www.sleuthkit.org/)** – Conjunto de herramientas para analizar discos y sistemas de archivos.  
+- **[FTK Imager](https://accessdata.com/product-download/ftk-imager)** – Herramienta para crear imágenes de discos y análisis forense.  
+- **[X1 Social Discovery](https://www.x1discovery.com/)** – Herramienta de descubrimiento y análisis forense de redes sociales y mensajes electrónicos.  
+- **[DD (Disk Dump)](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html)** – Herramienta estándar para crear imágenes bit a bit de discos duros.  
+- **[E01/EWF (EnCase Image Format)](https://www.encase.com/)** – Formato propietario de imágenes forenses utilizado por EnCase.  
+- **[DEFT Linux](http://www.deftlinux.net/)** – Distribución Linux orientada al análisis forense.  
+- **[Volatility](https://www.volatilityfoundation.org/)** – Framework de análisis forense de memoria para sistemas Windows, Linux y MacOS.  
+- **[Redline](https://www.fireeye.com/services/freeware/redline.html)** – Herramienta de FireEye para análisis de memoria y artefactos de sistemas.  
+- **[Memoryze](https://www.accessdata.com/product-download/memoryze)** – Herramienta de análisis de memoria para detectar y extraer artefactos de memoria volátil.  
+- **[LiME (Linux Memory Extractor)](https://github.com/airbus-cert/liME)** – Herramienta para capturar imágenes de memoria en sistemas Linux.  
+- **[Rekall](https://github.com/google/rekall)** – Framework para análisis forense de memoria y visualización en sistemas Windows y Linux.
+- **[Sleuth Kit Forensic Network Monitor (TSK-FNM)](https://www.sleuthkit.org/)** – Herramienta de monitoreo de red para análisis forense en entornos investigativos.  
+- **[FTK Imager](https://accessdata.com/product-download/ftk-imager)** – Herramienta para crear imágenes de discos y archivos y realizar análisis forenses.  
+- **[X-Ways Forensics](https://www.x-ways.net/forensics/)** – Herramienta de análisis forense de discos y recuperación de datos.  
+- **[Sleuth Kit](https://www.sleuthkit.org/)** – Herramienta de código abierto para realizar investigaciones forenses en discos y sistemas de archivos.  
+- **[OSForensics](https://www.osforensics.com/)** – Herramienta para la recopilación y análisis de datos forenses.  
+- **[Rekall](https://github.com/google/rekall)** – Framework para análisis forense de archivos y sistemas de archivos.  
+- **[RegRipper](https://github.com/keydet89/RegRipper)** – Herramienta para extraer y analizar el registro de Windows.  
+- **[Shellbags Explorer](https://www.reaktanz.de/shellbags/)** – Herramienta para analizar artefactos de Shellbag en Windows.  
+- **[Browser History View](https://www.nirsoft.net/utils/browsing_history_view.html)** – Herramienta para analizar el historial de navegación de un navegador.  
+- **[Plaso (log2timeline)](https://github.com/log2timeline/plaso)** – Herramienta de análisis y temporalización de artefactos de logs.  
+- **[MFT (Master File Table) Parser](https://github.com/joanrieu/mftparser)** – Herramienta para analizar archivos MFT en Windows.  
+- **[LICEcap](https://www.cockos.com/licecap/)** – Herramienta para grabar imágenes y videos de actividades en pantallas, útil para la documentación de evidencia forense.  
+- **[ExifTool](https://exiftool.org/)** – Herramienta para analizar y modificar metadatos de imágenes y archivos multimedia.  
+- **[Forensic Explorer](https://www.forensicexplorer.com/)** – Herramienta para la adquisición y análisis forense de archivos multimedia.  
+- **[Video and Image Hashing (Vidhash)](https://github.com/oxsecurity/vidhash)** – Herramienta para realizar hashing de videos e imágenes en investigaciones forenses.  
+- **[Ghiro](http://www.ghiro.org/)** – Sistema forense para el análisis automatizado de imágenes.  
+- **[Autopsy (Mobile Forensics)](https://www.sleuthkit.org/autopsy/)** – Módulo de análisis forense móvil dentro de Autopsy.  
+- **[Oxygen Forensic Detective](https://www.oxygen-forensic.com/)** – Herramienta avanzada para análisis forense de dispositivos móviles.  
+- **[Cellebrite UFED](https://www.cellebrite.com/en/ufed/)** – Herramienta líder en análisis forense de dispositivos móviles.  
+- **[Magnet AXIOM](https://www.magnetforensics.com/axiom/)** – Herramienta para análisis forense móvil y de computadoras.  
+- **[Case Notes](https://www.osforensics.com/tools/case-notes.html)** – Herramienta para gestionar notas de caso y documentación forense.  
+- **[Axiom Investigator](https://www.magnetforensics.com/axiom/)** – Herramienta para generar informes y documentación de casos forenses.  
+
 ## Threat Hunting
-base de datos de mitre y mitre atlas
-## 
+- **[Elastic Stack (ELK)](https://www.elastic.co/elastic-stack)** – Plataforma para la recopilación, búsqueda y análisis de grandes volúmenes de datos, como logs y métricas.  
+- **[Splunk](https://www.splunk.com/)** – Plataforma para la recopilación, indexación y análisis de grandes volúmenes de datos en tiempo real.  
+- **[Logstash](https://www.elastic.co/logstash)** – Herramienta para la recopilación, transformación y envío de logs a otros sistemas de análisis.  
+- **[Fluentd](https://www.fluentd.org/)** – Herramienta para la recopilación de logs, transformaciones y envío a diversas plataformas.  
+- **[Osquery](https://osquery.io/)** – Plataforma de detección de amenazas que permite ejecutar consultas SQL en sistemas operativos para obtener datos del sistema.  
+- **[Sigma](https://github.com/Neo23x0/sigma)** – Repositorio de reglas de detección de amenazas para correlacionar eventos y generar alertas.  
+- **[YARA](https://virustotal.github.io/yara/)** – Herramienta para la creación de reglas para la detección de malware y otros indicadores de compromiso (IOC).  
+- **[Snort](https://www.snort.org/)** – Sistema de detección de intrusos (IDS) para analizar el tráfico de red en busca de patrones maliciosos.  
+- **[Suricata](https://suricata-ids.org/)** – IDS de código abierto para la inspección profunda de paquetes y la detección de amenazas en tiempo real.  
+- **[Memoryze](https://www.accessdata.com/product-download/memoryze)** – Herramienta para realizar un análisis de la memoria de sistemas comprometidos.  
+- **[NetworkMiner](https://www.netresec.com/?page=NetworkMiner)** – Herramienta pasiva para el análisis de tráfico de red y la reconstrucción de sesiones de comunicación.  
+- **[MISP (Malware Information Sharing Platform)](https://www.misp-project.org/)** – Plataforma para el intercambio de indicadores de compromiso (IOC) y amenazas entre organizaciones.  
+- **[MITRE ATT&CK](https://attack.mitre.org/)** – Base de conocimiento y marco de referencia para la detección y mitigación de tácticas, técnicas y procedimientos (TTP) de atacantes.  
+- **[MITRE CALDERA](https://caldera.mitre.org/)** – Plataforma automatizada de simulación de adversarios basada en MITRE ATT&CK para la evaluación de la defensa.  
+- **[STIX/TAXII](https://oasis-open.github.io/cti-documentation/)** – Estándares para compartir, intercambiar y analizar información sobre ciberamenazas.  
+- **[AlienVault OTX](https://otx.alienvault.com/)** – Plataforma de inteligencia de amenazas para compartir y analizar indicadores de amenazas en tiempo real.  
+
+
 ## OSINT
 ## Blue Team (?)
