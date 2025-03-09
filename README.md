@@ -4,10 +4,9 @@
 </h1>
 
 <p>
-  Este repositorio está diseñado para servir como un punto de referencia para entusiastas, estudiantes y quienes deseen aprender sobre ciberseguridad. Reúne herramientas, cursos, y recursos para toda las ramas de la ciberseguridad.  
+  Este repositorio está diseñado para servir como un punto de referencia para entusiastas, estudiantes y quienes deseen aprender sobre ciberseguridad. Reúne herramientas, cursos y recursos para toda las ramas de la ciberseguridad.  
   Desde redes, red teaming, OSINT análisis forense y más.
   
-  Este recurso estará en constante actualización.
 </p>
 
 ## Contenido
