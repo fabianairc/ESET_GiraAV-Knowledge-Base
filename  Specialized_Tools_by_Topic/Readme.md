@@ -96,7 +96,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - [CeWL](https://github.com/digininja/CeWL) – Generación de listas de palabras para ataques de diccionario  
 - [Wordlists](https://github.com/danielmiessler/SecLists) – Colección de diccionarios para pentesting  
 
-## 🦠 Malware Analysis & Reverse Engineering Tools  
+## 🦠 Malware Analysis & Reverse Engineering
 - **[The Zoo](https://github.com/ytisf/theZoo)** – Colección de muestras de malware para análisis.  
 - **[MalwareBazaar](https://bazaar.abuse.ch/)** – Base de datos pública de malware de Abuse.ch.  
 - **[VirusShare](https://virusshare.com/)** – Repositorio de muestras de malware.  
@@ -144,7 +144,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 - **[MITRE ATT&CK ATLAS](https://atlas.mitre.org/)** – Marco de referencia de ataques cibernéticos dirigido a modelos de Inteligencia Aritfiical
 
 
-## 🕵️‍♂️ Forensic Analysis Tools
+## 🕵️‍♂️ Forensic Analysis
 
 - **[Autopsy](https://www.sleuthkit.org/autopsy/)** – Plataforma forense de análisis de discos con soporte para investigaciones digitales.  
 - **[The Sleuth Kit (TSK)](https://www.sleuthkit.org/)** – Conjunto de herramientas para analizar discos y sistemas de archivos.  
