@@ -1,4 +1,4 @@
-# Cybersecurity University
+# 🎓🏛️📚 Cybersecurity University
 
 En esta sección, encontrarás una recopilación de cursos gratuitos, repositorios y recursos de código abierto diseñados para ayudarte a aprender ciberseguridad de manera efectiva. Todos los recursos han sido seleccionados cuidadosamente para ofrecerte una educación accesible y de alta calidad en diversas áreas de la ciberseguridad.
 ¡Comienza tu viaje de aprendizaje y mejora tus habilidades con estos materiales útiles y gratuitos!
