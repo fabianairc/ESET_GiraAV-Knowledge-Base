@@ -9,4 +9,27 @@
   
 </p>
 
-## Contenido
+## 📖 Contenidos  
+
+- [🎓 Cybersecurity University](#-cybersecurity-university) 
+-  [🔧 Specialized Tools by Topic](#-specialized-tools-by-topic)  
+-  [🏴‍☠️ CTF (Capture The Flag)](#-ctf-capture-the-flag)  
+-  [💰 Bug Bounty](#-bug-bounty)  
+- [📚 English](#-inglés-para-ciberseguridad)  
+- [📂 Otros Recursos](#-otros-recursos)  
+
+#
+
+#### 🚀 ¡Sigue Aprendiendo!  
+
+La ciberseguridad es un campo en constante evolución, donde el aprendizaje nunca se detiene. Esperamos que este repositorio te ayude a mejorar tus habilidades, descubrir nuevas herramientas y avanzar en tu camino profesional.  
+
+🔹 **Alentamos la curiosidad, la ética y el aprendizaje continuo.** Usa estos recursos con responsabilidad y siempre con el objetivo de fortalecer la seguridad  digital.  
+
+🔹 **Contribuye y comparte.** Si tienes sugerencias o quieres agregar contenido, no dudes en hacer un **pull request** o abrir un **issue**.  
+
+🔹 **Forma parte de la comunidad.** La mejor manera de crecer es compartiendo conocimientos, participando en eventos y colaborando con otros apasionados por la seguridad.  
+
+🛡**Good luck!** 🏴‍☠️🚀  
+
+
