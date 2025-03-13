@@ -15,6 +15,9 @@ investigación en Seguridad de la Información! [Click aquí](https://www.eset.c
 - Tercer premio: Giftcard de Amazon por USD$ 50  
 - Cuarto y quinto premio: Giftcard para comprar libros por un monto de hasta USD$ 25 en 0xWORD  
 
+También te dejamos nuestro repositorio donde encontrarás los desafíos de años anteriores con sus write ups para que puedas practicar [Click aquí](https://github.com/eset-la/PUE)  
+
+
 ---
 
 ## 🌍 Sitios Famosos para Jugar CTF  

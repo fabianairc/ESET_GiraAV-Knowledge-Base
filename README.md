@@ -17,8 +17,7 @@
 - [💰 Bug Bounty ](BugBounty/Readme.md)  
 - [📚 English](Ingles/Readme.md)  
 - [📂Otros Recursos](OtrosRecursos/Readme.md)  
-- [🏆 Premio Universitario ESET](PUE/Readme.md)  
-#
+ 
 
 #### 🚀 ¡Sigue Aprendiendo!  
 

@@ -8,7 +8,7 @@ En esta sección encontrarás una recopilación de diversos recursos adicionales
 >A continuación te recomendamos algunas.** 
 
 
-### 🌍 
+### 🌍 En el mundo
 
 - **[Black Hat](https://www.blackhat.com/)** 🏴 - Una de las conferencias más prestigiosas sobre hacking y ciberseguridad técnica. Se realiza en Las Vegas, Europa y Asia.  
 - **[DEF CON](https://defcon.org/)** 👾 - La conferencia de hacking más famosa del mundo, celebrada en Las Vegas.  
@@ -42,8 +42,7 @@ En esta sección encontrarás una recopilación de diversos recursos adicionales
 de la información de Iberoamérica con expertos que concurren a exponer novedades.
 
 
-
-
+---
 
 ## 📡🔐 Recursos en Redes Sociales para Aprender Ciberseguridad  
 
@@ -78,7 +77,6 @@ de la información de Iberoamérica con expertos que concurren a exponer novedad
 - [@binitamshah](https://twitter.com/binitamshah) - Seguridad ofensiva y análisis de vulnerabilidades.  
 - [@CyberArk](https://twitter.com/CyberArk) - Seguridad de identidad y protección contra ataques.  
 
----
 
 ### 🎵 TikTok - Creadores de Contenido en Ciberseguridad  
 
@@ -88,7 +86,7 @@ de la información de Iberoamérica con expertos que concurren a exponer novedad
 - [@hackerstuff](https://www.tiktok.com/@hackerstuff) - Consejos y técnicas de hacking ético.  
 - [@bugcrowd](https://www.tiktok.com/@bugcrowd) - Bug bounty y seguridad web.  
 
----
+
 
 ### 🎮 Twitch - Streamers de Ciberseguridad  
 
@@ -97,7 +95,7 @@ de la información de Iberoamérica con expertos que concurren a exponer novedad
 - [John Hammond](https://www.twitch.tv/johnhammond010) - Análisis de malware y retos de ciberseguridad.  
 - [InsiderPhD](https://www.twitch.tv/insiderphd) - Seguridad ofensiva y bug bounty en vivo.  
 - [TheCyberMentor](https://www.twitch.tv/thecybermentor) - Hacking en vivo, educación en seguridad.  
-
+---
 
 ## 📰🔐 Sitios de Noticias de Ciberseguridad  
 
@@ -105,7 +103,7 @@ Es importante mantenere actualizado sobre las últimas amenazas, vulnerabilidade
 
 Te recomendamos algunos sitios.
 
----
+
 
 ### 🌍 Medios  Especializados en Ciberseguridad  
 
@@ -119,7 +117,6 @@ Te recomendamos algunos sitios.
 - [SC Media](https://www.scmagazine.com/) - Noticias y análisis sobre ciberseguridad empresarial.  
 - [CSO Online](https://www.csoonline.com/) - Ciberseguridad para empresas y protección de datos.  
 - [CyberScoop](https://www.cyberscoop.com/) - Noticias de ciberseguridad y políticas gubernamentales.  
-
 
 
 ### 🏴‍☠️ Blogs y Sitios de Investigación en Ciberseguridad  

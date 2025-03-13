@@ -42,7 +42,7 @@ En esta sección encontrarás las herramientas clave e indispensables en múltip
 
 
 ## 🚩 Main Red Teaming
--- **[Metasploit](https://www.metasploit.com/)** – Framework para explotación de vulnerabilidades  
+- **[Metasploit](https://www.metasploit.com/)** – Framework para explotación de vulnerabilidades  
 - **[Cobalt Strike](https://www.cobaltstrike.com/)** – Simulación de adversarios y post-explotación  
 - **[Empire](https://github.com/BC-SECURITY/Empire)** – Post-explotación en PowerShell y Python  
 - **[Sliver](https://github.com/BishopFox/sliver)** – C2 alternativo a Cobalt Strike  
