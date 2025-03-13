@@ -12,7 +12,7 @@
 ## 📖 Contenidos  
 
 - [🎓 Cybersecurity University](Cybersecurity_University/Readme.md) 
-- [🔧 Specialized Tools by Topic](Specialized_Tools_by_Topic/Readme.md)  
+- [🔧 Specialized Tools by Topic](Tools/Readme.md)  
 - [🏴‍☠️ CTF (Capture The Flag)](CTF/Readme.md)  
 - [💰 Bug Bounty](Bug Bounty/Readme.md)  
 - [📚 English](Ingles/Readme.md)  
