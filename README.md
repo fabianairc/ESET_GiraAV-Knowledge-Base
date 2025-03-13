@@ -5,19 +5,19 @@
 
 <p>
   Este repositorio está diseñado para servir como un punto de referencia para entusiastas, estudiantes y quienes deseen aprender sobre ciberseguridad. Reúne herramientas, cursos y recursos para toda las ramas de la ciberseguridad.  
-  Desde redes, red teaming, OSINT análisis forense y más.
+  Desde redes, red teaming, OSINT, análisis forense y más.
   
 </p>
 
 ## 📖 Contenidos  
 
-- [🎓 Cybersecurity University](#-cybersecurity-university) 
--  [🔧 Specialized Tools by Topic](#-specialized-tools-by-topic)  
--  [🏴‍☠️ CTF (Capture The Flag)](#-ctf-capture-the-flag)  
--  [💰 Bug Bounty](#-bug-bounty)  
-- [📚 English](#-inglés-para-ciberseguridad)  
-- [📂 Otros Recursos](#-otros-recursos)  
-
+- [🎓 Cybersecurity University](Cybersecurity_University/Readme.md) 
+- [🔧 Specialized Tools by Topic](Specialized_Tools_by_Topic/Readme.md)  
+- [🏴‍☠️ CTF (Capture The Flag)](CTF/Readme.md)  
+- [💰 Bug Bounty](Bug Bounty/Readme.md)  
+- [📚 English](Ingles/Readme.md)  
+- [📂Otros Recursos](OtrosRecursos/Readme.md)  
+- [🏆 Premio Universitario ESET](PUE/Readme.md)  
 #
 
 #### 🚀 ¡Sigue Aprendiendo!  
